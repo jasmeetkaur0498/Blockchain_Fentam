@@ -4,8 +4,6 @@
 
 This project ensures transparency, accountability, and prevents product misplacement through decentralized verification and role-based approval workflows.
 
-**Status**: ✅ Production Ready | **Version**: 1.0.0 | **Date**: February 2026
-
 ---
 
 ## 📋 Table of Contents
@@ -1045,28 +1043,3 @@ struct Drug {
 ✅ **User Management** - MongoDB-based scalable user storage  
 ✅ **Transaction History** - Complete blockchain history  
 ✅ **Decentralized Verification** - Smart contract-based verification  
-
----
-
-## 📄 License
-
-ISC
-
-## 👥 Contributors
-
-FENTAM Supply Chain Management Team
-
-## 📞 Support & Documentation
-
-For issues or detailed documentation:
-- Check **Troubleshooting** section above
-- Review code comments in key files
-- Check Hardhat node console for blockchain events
-- Use MongoDB Compass to inspect database
-
----
-
-**Project Status**: ✅ Production Ready  
-**Version**: 1.0.0  
-**Last Updated**: February 15, 2026  
-**Maintained By**: Development Team
